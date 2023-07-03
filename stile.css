@@ -1,0 +1,19 @@
+body{
+margin: 50px;
+padding: 50px 100px;
+border: 1px solid white;
+background-color: rgb(230, 157, 191);
+}
+
+
+
+.textoCentrado {
+    text-align: center;
+}
+
+.textoColor
+{color: antiquewhite;}
+
+img{width: 50%;}
+
+
